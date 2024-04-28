@@ -45,13 +45,13 @@ a
     text-align: center;
     text-decoration: none;
 } 
-#par {
+.par {
     font-size: 20pt;
     font-family: verdana;
     color: blue;
 }
 
-#impar{
+.impar{
     font-size: 16pt;
     font-family: arial;
     color: red;
