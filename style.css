@@ -45,23 +45,14 @@ a
     text-align: center;
     text-decoration: none;
 } 
-
-table
-{
-    background-color: white;
-    color: black;
+#par {
     font-size: 20pt;
-    font-family:Arial;   
-    table, td, th, tfoot 
-        {
-            border: 3px solid;
-        }  
-    td {color: blue;}
-    text-align: center;  
-    margin: auto;    
+    font-family: verdana;
+    color: blue;
 }
 
-table.table tr
-{
-    cursor.pointer;
+#impar{
+    font-size: 16pt;
+    font-family: arial;
+    color: red;
 }
